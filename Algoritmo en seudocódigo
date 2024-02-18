@@ -1,4 +1,4 @@
-Algoritmo Nota
+Algoritmo StudentQualification
 	Escribir 'Introduzca su nota'
 	Leer qualification
 	Si qualification==3 O qualification==4 Entonces
